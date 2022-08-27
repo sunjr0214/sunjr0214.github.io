@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Amazon Alexa AI</a> | Indiana University Bloomington 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
