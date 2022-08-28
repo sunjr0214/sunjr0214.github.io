@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Applied Scientist</b> @ <a href='https://www.aboutamazon.com/news/amazon-ai'>Amazon Alexa AI</a> • <b>Previously:</b> <a href='https://www.indiana.edu/'>Indiana University Bloomington</a> 
+subtitle: <b>Applied Scientist</b> @ <a href='https://www.aboutamazon.com/news/amazon-ai'>Amazon Alexa AI</a> 
+# • <b>Previously:</b> <a href='https://www.indiana.edu/'>Indiana University Bloomington</a> 
 
 profile:
   align: right
