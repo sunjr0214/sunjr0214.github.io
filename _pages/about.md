@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Amazon Alexa AI</a> | Indiana University Bloomington 
+subtitle: <b>Applied Scientist</b> @ <a href='https://www.aboutamazon.com/news/amazon-ai'>Amazon Alexa AI</a> • <b>Previously:</b> <a href='https://www.indiana.edu/'>Indiana University Bloomington</a> 
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Amazon Tahoe (SEA107) </p>
+    <p>10450 NE 10th St </p>
+    <p>Bellevue, WA, 98004</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi, I am Zheng Gao, an Applied Scientist at [Amazon Alexa AI](https://www.aboutamazon.com/news/amazon-ai). Currently I am working on Natural Language Understanding projects to support Alexa better understand millions of utterances in a daily basis. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Before joining Alexa, I received my Ph.D. degree in Information Science and minor in Computer Science at [Indiana University Bloomington](https://luddy.indiana.edu/index.html), advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. Besides, I finished my master degree at [University of Pittsburgh](https://www.pitt.edu/) and bachelor degree at [Shanghai International Studies University](http://en.shisu.edu.cn/).  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are primarily in the area of **Graph Mining** and **Natural Language Processing** (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
