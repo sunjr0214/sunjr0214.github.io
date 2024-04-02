@@ -6,7 +6,7 @@
     - name: Contact
       value: woshigaozheng [at] gmail [dot] com
     - name: Research Interests
-      value: Natural Langauge Processing, Graph Mining
+      value: Large Language Model, Natural Langauge Processing, Graph Mining
     - name: Languages
       value: English, Chinese
 
@@ -29,9 +29,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Algorithm Engineer
+      institution: Ant Group
+      year: 02/2023 - now
+      description:
+        - Trained 10B and 65B Ant Group self-innovated large language model (LLM). Supported supervised fine-tuning stage to improve LLM reasoning capability.
+        - Lead to implement and maintain company-level LLM evaluation pipeline, which contained 50+ public/private datasets and 20+ evaluation metrics. It served as the default evaluation toolkit for all major Ant Group Artificial General Intelligence (AGI) teams. 
+        - Implemented LLM agents to support two Ant Group internal human resource related use-cases, including meeting arrangements and hiring & dimission.
     - title: Applied Scientist
       institution: Amazon Alexa AI 
-      year: 06/2020 - now
+      year: 06/2020 - 01/2023
       description:
         - Built Natural Language Understanding (NLU) pipelines for Alexa to support customer utterance interpretation. 
         - Expanded Alexa NLU pipelines from English regions to other language regions by involving contextual signals.
@@ -56,9 +63,11 @@
   contents:
     - title: Conference Reviewer
       items: 
-        - iConference (2023)
-        - ACM International Conference on Web Search and Data Mining (WSDM 2023)
-        - AAAI Conference on Artificial Intelligence (AAAI 2022,2023)
+        - Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+        - iConference (2023,2024)
+        - ACM International Conference on Web Search and Data Mining (WSDM 2023,2024)
+        - AAAI Conference on Artificial Intelligence (AAAI 2022,2023,2024)
+        - International Workshop on Deep Learning Practice for High-Dimensional Sparse Data (DLP-RecSys 2023; DLP-KDD 2020,2021)
         - Workshop on Information Extraction from Scientific Publications (WIESP-AACL 2022)
         - The Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
         - China Conference on Knowledge Graph and Semantic Computing (CCKS 2022)
@@ -68,7 +77,7 @@
         - ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018, 2022)
         - IEEE International Conference on Big Data (BigData 2020, 2022)
         - Joint Conference on Digital Libraries (JCDL 2021, 2022)
-        - ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop (DLP-KDD 2020,2021; IWKG-KDD 2020)
+        - International Workshop on Knowledge Graph (IWKG-KDD 2020)
         - Workshop on Scholarly Document Processing (SDP-NAACL 2021, SDP-COLING 2022)
         - International Conference on Information Systems (ICIS 2021)
         - China Conference on Information Retrieval (CCIR 2021)
