@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Zheng
+first_name: Jiarui
 middle_name: 
-last_name: Gao
-email: zhenggao@amazon.com
+last_name: Sun
+email: 18932207365@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -17,7 +17,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://RoyZhengGao.github.io # the base hostname & protocol for your site
+url: https://sunjr0214.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -66,12 +66,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: RoyZhengGao # your GitHub user name
+github_username: sunjr0214 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: zheng-gao-351b738a # your LinkedIn user name
-scholar_userid: C8M7-1YAAAAJ # your Google Scholar ID
-orcid_id: 0000-0001-7549-033X # your ORCID ID
+linkedin_username: # your LinkedIn user name
+scholar_userid: R2Y-OhQAAAAJ # your Google Scholar ID
+orcid_id: 0009-0004-0604-4677 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -80,7 +80,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: https://dblp.org/pid/03/4645.html # your DBLP profile url
+dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
@@ -220,8 +220,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Gao
-  first_name: [Zheng]
+  last_name: Sun
+  first_name: [Jiarui]
 
   style: apa
   locale: en
