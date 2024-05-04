@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Senior Algorithm Engineer</b> @ <a href='https://www.antgroup.com/en/home'>Ant Group</a> 
-# • <b>Previously:</b> <a href='https://www.indiana.edu/'>Indiana University Bloomington</a> 
+subtitle: <b>Postgraduate</b> @ <a href='http://eit.jsnu.edu.cn/'>Jiangsu Normal University</a> 
 
 profile:
   align: right
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Ant Group</p>
-    <p>525 Almanor Ave</p>
-    <p>Sunnyvale, CA 94085</p>
-
+    <p>Xuzhou, Jiangsu, China</p>
+    <p>Jiangsu Normal University</p>
+    <p>School of Computer Seienee and Technology</p>
+    
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am Zheng Gao, a senior algorithm engineer at [Ant Group](https://www.antgroup.com/en/home). Before I joined Ant Group, I was an applied scientist in [Amazon Alexa AI](https://www.aboutamazon.com/news/amazon-ai).
+Hi, I am Jiarui Sun, a graduate student in Software Engineering at [Jiangsu Normal University](http://eit.jsnu.edu.cn/). My advisor is Associate Professor [Mingjing Du](https://dumingjing.github.io/). I received the B.S. degree from Jiangsu Normal University, Xuzhou, China, in 2019. I will be pursuing my Ph.D. in the School of Computer Science and Technology at [Xidian University](https://cs.xidian.edu.cn/) under the supervision of Prof. [Lin Gao](https://web.xidian.edu.cn/home/lgao/index.html).
 
-I received my Ph.D. degree in Information Science and minor in Computer Science at [Indiana University Bloomington](https://luddy.indiana.edu/index.html), advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. Besides, I finished my master degree at [University of Pittsburgh](https://www.pitt.edu/) and bachelor degree at [Shanghai International Studies University](http://en.shisu.edu.cn/).  
+My research interests include *Big Data Analysis*, *Cluster Analysis*, *Data Stream*, and *Bioinformatics*.
 
- My full efforts are currently in building up **large language models** and seeking potential industrial values in LLM-based applications. I am training 10B/65B self-innovated large language models to improve their reasoning capability, implementing agent-based applications to serve company internal use-cases, and developing evaluation pipelines to better assess LLM performances. 
-
+---
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5iscg5vcpvq&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
