@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p><i class="fa fa-graduation-cap"></i> Master</p>
-    <p><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>Xuzhou, Jiangsu, China</p>
-    <p><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>Jiangsu Normal University</p>
+    <p><i class="fa fa-university"></i>Jiangsu Normal University</p>
+    <p><i class="fa fa-location-arrow"></i> Xuzhou, Jiangsu, China</p>
     
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
