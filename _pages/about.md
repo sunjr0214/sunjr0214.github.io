@@ -9,9 +9,9 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
+    <p><i class="fa fa-graduation-cap">Master</i></p>
     <p>Xuzhou, Jiangsu, China</p>
     <p>Jiangsu Normal University</p>
-    <p>School of Computer Seienee and Technology</p>
     
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
