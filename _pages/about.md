@@ -9,7 +9,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p><i class="fa fa-graduation-cap"></i>&ensp;Master</p>
+    <p><i class="fa fa-graduation-cap"></i>&ensp;Ph.D.</p>
     <p><i class="fa fa-university"></i>&ensp;Xidian University</p>
     <p><i class="fa fa-location-arrow"></i>&ensp;Xi'an, Shanxi, China</p>
     
