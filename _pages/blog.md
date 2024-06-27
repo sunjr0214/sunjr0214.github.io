@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /blog/
 title: blog
@@ -6,4 +6,4 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 4
 ---
-
+ -->
