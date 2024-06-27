@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Postgraduate</b> @ <a href='http://eit.jsnu.edu.cn/'>Jiangsu Normal University</a> 
+subtitle: <b>Ph.D.</b> @ <a href='https://cs.xidian.edu.cn/'>Xidian University</a> 
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p><i class="fa fa-graduation-cap"></i>&ensp;Master</p>
-    <p><i class="fa fa-university"></i>&ensp;Jiangsu Normal University</p>
-    <p><i class="fa fa-location-arrow"></i>&ensp;Xuzhou, Jiangsu, China</p>
+    <p><i class="fa fa-university"></i>&ensp;Xidian University</p>
+    <p><i class="fa fa-location-arrow"></i>&ensp;Xi'an, Shanxi, China</p>
     
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
