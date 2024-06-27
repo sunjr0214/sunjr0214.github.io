@@ -17,9 +17,10 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am Jiarui Sun, a graduate student in Software Engineering at [Jiangsu Normal University](http://eit.jsnu.edu.cn/). My advisor is Associate Professor [Mingjing Du](https://dumingjing.github.io/). I received the B.S. degree from Jiangsu Normal University, Xuzhou, China, in 2019. I will be pursuing my Ph.D. in the School of Computer Science and Technology at [Xidian University](https://cs.xidian.edu.cn/) under the supervision of Prof. [Lin Gao](https://web.xidian.edu.cn/home/lgao/index.html).
+Hi, welcome to my academic homepage! I am pursuing my Ph.D. degree in the School of Computer Science and Technology, [Xidian University](https://cs.xidian.edu.cn/), Xi'an, China. My advisor is Prof. [Lin Gao](https://web.xidian.edu.cn/home/lgao/index.html). Previously, I received my M.S. degree in Software Engineering at [Jiangsu Normal University](http://eit.jsnu.edu.cn/), Xuzhou, China, in 2024.
 
-My research interests include *Big Data Analysis*, *Cluster Analysis*, *Data Stream*, and *Bioinformatics*.
+I am currently focusing on *Bioinformatics*, mainly involving the study of cell type recognition and inter-domain communication in tissues.
+Additionally, my research interests also cover: *Clustering Analysis*, *Data Stream Analysis*, and *Big Data Analysis*.
 
 ---
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5idpmr8ix0u&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;s=170" async="async"></script>
